@@ -1,0 +1,1 @@
+ INSERT INTO client (nombre, dni) VALUES('Jorge Álvarez', '5342365');
